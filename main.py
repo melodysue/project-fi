@@ -1,3 +1,5 @@
+from app import app
+
 from yahoofinancials import YahooFinancials
 
 ticker = 'AMZN'
