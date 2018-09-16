@@ -8,9 +8,9 @@
     </head>
     <body>
         <div>Web:
-            <a href="/index">Home</a>
-            <a href="/login">Login</a>
-            <a href="/financials">Financials</a>
+            <a href="{{ url_for('index')">Home</a>
+            <a href="{{ url_for('login')">Login</a>
+            <a href="{{ url_for('financials')">Financials</a>
         </div>
         <hr>
         {% block content %}{% endblock %}
