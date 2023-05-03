@@ -9,7 +9,7 @@ click==6.7
 contextlib2==0.5.5
 feedparser==5.2.1
 fix-yahoo-finance==0.0.22
-Flask==1.0.2
+Flask==2.2.5
 Flask-WTF==0.14.2
 future==0.16.0
 idna==2.7
