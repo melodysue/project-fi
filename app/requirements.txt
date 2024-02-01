@@ -28,7 +28,7 @@ pandas-datareader==0.6.0
 Pattern==3.6
 pdfminer.six==20170720
 portend==2.3
-pycryptodome==3.6.6
+pycryptodome==3.19.1
 python-dateutil==2.7.3
 python-docx==0.8.7
 python-dotenv==0.9.1
